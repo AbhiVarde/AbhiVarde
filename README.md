@@ -11,6 +11,6 @@
 
 - 🚀 Building web apps with a touch of uniqueness
 - 💼 Jr Web Developer at @uniqualitech
-- 🌍 Remote work advocate; location-independent lifestyle 
 - 📚 Never a master, Always a student
+- 🌍 Remote work advocate; location-independent lifestyle 
 - 🎯 Current focus: Frontend
