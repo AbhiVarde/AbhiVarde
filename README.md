@@ -9,8 +9,10 @@
 
 ### About Me
 
-- 🚀 Building web apps with a touch of uniqueness
-- 💼 Jr Web Developer at @uniqualitech
-- 📚 Never a master, Always a student
-- 🌍 Code from Anywhere
+- 💼 Jr Web Developer at @uniqualitech  
+- 🚀 Building web apps with a touch of uniqueness  
+- 🧩 Creator of [Sync UI](https://syncui.design) - Sleek UI components built with MUI & Framer Motion  
+- 📚 Never a master, Always a student  
+- 🌍 Code from Anywhere  
 - 🎯 Current focus: Frontend
+
