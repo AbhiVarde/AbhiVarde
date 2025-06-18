@@ -11,8 +11,21 @@
 
 - 💼 Jr Web Developer at @uniqualitech  
 - 🚀 Building web apps with a touch of uniqueness  
-- 🧩 Creator of [Sync UI](https://syncui.design) - Sleek UI components built with MUI & Framer Motion  
+- 🧩 Creator of [Sync UI](https://syncui.design) – Sleek UI components built with MUI & Framer Motion  
 - 📚 Never a master, Always a student  
 - 🌍 Code from Anywhere  
-- 🎯 Current focus: Frontend
+- 🎯 Current focus: Frontend  
 
+## 🌩️ Appwrite Cloud Beta
+
+Proud to be part of the **Appwrite Cloud Public Beta** 🎉  
+Click the card below to view it live:
+
+<a href="https://cloud.appwrite.io/card/653e053411ff36b703e7" target="_blank">
+  <img width="350" src="https://cloud.appwrite.io/v1/cards/cloud?userId=653e053411ff36b703e7" alt="Appwrite Cloud Card" />
+</a>
+
+<br/>
+
+🛠️ Built with Appwrite:  
+→ [Idea Tracker](https://idea-tracker.appwrite.network/) · [Source Code](https://github.com/AbhiVarde/Idea-tracker)
