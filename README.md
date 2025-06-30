@@ -21,11 +21,9 @@
 Proud to be part of the **Appwrite Cloud Public Beta** 🎉  
 Click the card below to view it live:
 
+🛠️ Built with Appwrite:  
+→ [Idea Tracker](https://idea-tracker.appwrite.network/) · [Source Code](https://github.com/AbhiVarde/Idea-tracker)
+
 <a href="https://cloud.appwrite.io/card/653e053411ff36b703e7" target="_blank">
   <img width="350" src="https://cloud.appwrite.io/v1/cards/cloud?userId=653e053411ff36b703e7" alt="Appwrite Cloud Card" />
 </a>
-
-<br/>
-
-🛠️ Built with Appwrite:  
-→ [Idea Tracker](https://idea-tracker.appwrite.network/) · [Source Code](https://github.com/AbhiVarde/Idea-tracker)
