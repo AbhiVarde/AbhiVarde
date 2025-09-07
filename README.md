@@ -7,11 +7,16 @@
 
 </div>
 
-### About Me
+### 🧩 About Me
 
 - 💼 Jr Web Developer at @uniqualitech  
 - 🚀 Building web apps with a touch of uniqueness  
-- 🧩 Creator of [Sync UI](https://syncui.design) - a sleek UI library of free components and templates built with MUI and Framer Motion.
 - 📚 Never a master, Always a student  
 - 🌍 Code from Anywhere  
 - 🎯 Current focus: Frontend  
+
+### 🪴 Things I’ve Built
+- [Sync UI](https://syncui.design) - 🎨 UI components & templates with motion  
+- [Idea Tracker](https://idea-tracker-v2.appwrite.network) - 💡 Capture, grow & share your ideas  
+- [Errexplain](https://errexplain.appwrite.network) - ❌ Turn errors into plain English  
+
