@@ -15,8 +15,10 @@
 - 🌍 Code from Anywhere  
 - 🎯 Current focus: Frontend  
 
+### 🌱 Exploring Opportunities  
+If you find my work helpful, I’d be glad to explore **Frontend / Design / Product Engineer roles** at developer-focused, product-based companies  
+
 ### 🪴 Things I’ve Built
 - [Sync UI](https://syncui.design) - 🎨 UI components & templates with motion  
 - [Idea Tracker](https://idea-tracker-v2.appwrite.network) - 💡 Capture, grow & share your ideas  
 - [Errexplain](https://errexplain.appwrite.network) - ❌ Turn errors into plain English  
-
