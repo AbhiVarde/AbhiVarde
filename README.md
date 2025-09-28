@@ -9,16 +9,17 @@
 
 ### 🧩 About Me
 
-- 💼 Jr Web Developer at @uniqualitech  
-- 🚀 Building web apps with a touch of uniqueness  
+- 💼 Passionate Frontend & Product Engineer, building developer-focused tools  
+- 🚀 Love creating web apps with a touch of uniqueness  
 - 📚 Never a master, Always a student  
 - 🌍 Code from Anywhere  
-- 🎯 Current focus: Frontend  
+- 🎯 Current focus: Frontend + Developer Experience  
 
 ### 🌱 Exploring Opportunities  
-If you find my work helpful, I’d be glad to explore **Frontend / Design / Product Engineer roles** at developer-focused, product-based companies  
+I’m open to **Frontend / Design / Product Engineer roles** at developer-focused, product-based companies.  
 
 ### 🪴 Things I’ve Built
-- [Sync UI](https://syncui.design) - 🎨 UI components & templates with motion  
-- [Idea Tracker](https://idea-tracker-v2.appwrite.network) - 💡 Capture, grow & share your ideas  
-- [Errexplain](https://errexplain.appwrite.network) - ❌ Turn errors into plain English  
+- [Sync UI](https://syncui.design) - 🎨 A library of polished UI components & templates with motion  
+- [Idea Tracker](https://idea-tracker-v2.appwrite.network) - 💡 A tool to capture, grow & share your ideas  
+- [ErrExplain](https://errexplain.appwrite.network) - 🛠️ Simplifies error messages into plain English  
+- [Sendra](https://sendra.vercel.app/) - 📡 Monitor and track Appwrite Sites deployments  
