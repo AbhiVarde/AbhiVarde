@@ -9,7 +9,7 @@
 
 ### 🧩 About Me
 
-- 💼 Passionate Frontend & Product Engineer, building developer-focused tools  
+- 💼 Passionate Product & Frontend Engineer, building developer-focused tools  
 - 🚀 Love creating web apps with a touch of uniqueness  
 - 📚 Never a master, Always a student  
 - 🌍 Code from Anywhere  
