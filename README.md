@@ -16,7 +16,7 @@
 - 🎯 Current focus: Frontend + Developer Experience  
 
 ### 🌱 Exploring Opportunities  
-I’m open to **Frontend / Design / Product Engineer roles** at developer-focused, product-based companies.  
+I’m open to **Product Engineer / Frontend / Design roles** at developer-focused, product-based companies.
 
 ### 🪴 Things I’ve Built
 - [Sync UI](https://syncui.design) - 🎨 A library of polished UI components & templates with motion  
