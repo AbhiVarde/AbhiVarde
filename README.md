@@ -22,4 +22,4 @@ I’m open to **Product / Frontend / Design Engineer roles** at developer-focuse
 - [Sync UI](https://syncui.design) - 🎨 A library of polished UI components & templates with motion  
 - [Idea Tracker](https://idea-tracker-v2.appwrite.network) - 💡 A tool to capture, grow & share your ideas  
 - [ErrExplain](https://errexplain.appwrite.network) - 🛠️ Simplifies error messages into plain English  
-- [Sendra](https://sendra.vercel.app/) - 📡 Monitor and track Appwrite Sites deployments  
+- [Sendra](https://sendra.vercel.app/) - 📡 Monitor and track Appwrite Sites & Functions deployments  
