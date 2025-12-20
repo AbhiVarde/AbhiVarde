@@ -18,11 +18,12 @@
 
 ### 🌱 Exploring Opportunities  
 
-I’m open to **Product, Frontend, or Design Engineer roles** at developer-focused, product-based companies.
+I'm open to **Product, Frontend, or Design Engineer roles** at developer-focused, product-based companies.
 
-### 🪴 Things I’ve Built  
+### 🪴 Things I've Built  
 
 - [Sync UI](https://syncui.design) – 🎨 A library of polished UI components & templates with motion  
+- [Svelte Drawer](https://drawer.abhivarde.in) – 📦 Smooth, accessible drawer component for Svelte 5  
 - [Idea Tracker](https://idea-tracker-v2.appwrite.network) – 💡 Capture, grow, and share your ideas  
 - [ErrExplain](https://errexplain.appwrite.network) – 🛠️ Simplifies error messages into plain English  
-- [Sendra](https://sendra.vercel.app/) – 📡 Monitor and analyze Appwrite Sites & Functions deployments  
+- [Sendra](https://sendra.vercel.app/) – 📡 Monitor and analyze Appwrite Sites & Functions deployments
