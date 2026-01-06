@@ -10,20 +10,21 @@
 
 ### 🧩 About Me
 
-- 💼 Product & Frontend Engineer passionate about building developer-focused tools  
-- 🚀 I love creating web apps with personality and purpose  
+- 💼 **Product Engineer & Design Engineer** focused on developer-first tools  
+- 🎨 I enjoy shaping products end-to-end from UX and visuals to scalable frontend systems  
+- 🚀 Love building web apps with personality, clarity, and real-world impact  
 - 📚 Never a master, always a student  
 - 🌍 Code from anywhere  
-- 🎯 Currently focused on Frontend Engineering & Developer Experience  
+- 🎯 Currently focused on Product Engineering, Design Systems & Developer Experience  
 
 ### 🌱 Exploring Opportunities  
 
-I'm open to **Product, Frontend, or Design Engineer roles** at developer-focused, product-based companies.
+I'm open to **Product Engineer or Design Engineer roles** at developer-focused, product-driven companies.
 
 ### 🪴 Things I've Built  
 
-- [Sync UI](https://syncui.design) – 🎨 A library of polished UI components & templates with motion  
+- [Sync UI](https://syncui.design) – 🎨 Polished UI components & templates with motion for real products  
 - [Svelte Drawer](https://drawer.abhivarde.in) – 📦 Smooth, accessible drawer component for Svelte 5  
-- [Idea Tracker](https://idea-tracker-v2.appwrite.network) – 💡 Capture, grow, and share your ideas  
-- [ErrExplain](https://errexplain.appwrite.network) – 🛠️ Simplifies error messages into plain English  
-- [Sendra](https://sendra.vercel.app/) – 📡 Monitor and analyze Appwrite Sites & Functions deployments
+- [Idea Tracker](https://idea-tracker-v2.appwrite.network) – 💡 Capture, expand, and organize ideas  
+- [ErrExplain](https://errexplain.appwrite.network) – 🛠️ Turns confusing errors into plain English  
+- [Sendra](https://sendra.vercel.app/) – 📡 Monitoring & analysis for Appwrite Sites & Functions deployments
