@@ -23,6 +23,7 @@ I'm open to **Product Engineer or Design Engineer roles** at developer-focused, 
 
 ### 🪴 Things I've Built  
 
+- **NEW** · [Nothify](https://nothify.abhivarde.in) – 🚨 Autonomous 404 page generator for Next.js repositories  
 - [Sync UI](https://syncui.design) – 🎨 Polished UI components & templates with motion for real products  
 - [Svelte Drawer](https://drawer.abhivarde.in) – 📦 Smooth, accessible drawer component for Svelte 5  
 - [Idea Tracker](https://idea-tracker-v2.appwrite.network) – 💡 Capture, expand, and organize ideas  
