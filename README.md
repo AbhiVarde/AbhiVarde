@@ -23,8 +23,6 @@ I'm open to **Product Engineer or Design Engineer roles** at developer-focused, 
 
 Here’s the reordered list **from latest → oldest**, with **NEW** added to **Nothify** and **Svelte Drawer** 👇
 
----
-
 ### 🪴 Things I've Built
 
 * **NEW** · [Nothify](https://nothify.abhivarde.in) – 🚨 Autonomous 404 page generator for Next.js repositories
