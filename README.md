@@ -25,7 +25,7 @@ I'm open to **Product Engineer or Design Engineer roles** at developer-focused, 
 
 * **NEW** · [Billow](https://billow.abhivarde.in) (SaaS) – 🧾 Simple GST sales invoicing for Indian B2B businesses
 * **NEW** · [Nothify](https://nothify.abhivarde.in) (AI Agent / Automation Tool) – 🚨 Autonomous 404 page generator for Next.js repositories
-* **NEW** · [Svelte Drawer](https://drawer.abhivarde.in) (NPM Package / UI Component) – 📦 Smooth, accessible drawer component for Svelte 5
+* [Svelte Drawer](https://drawer.abhivarde.in) (NPM Package / UI Component) – 📦 Smooth, accessible drawer component for Svelte 5
 * [Sendra](https://sendra.vercel.app) (Monitoring Tool / DevOps Automation) – 📡 Monitoring & analysis for Appwrite Sites & Functions deployments
 * [ErrExplain](https://errexplain.app) (Developer Tool) – 🛠️ Turns confusing errors into plain English
 * [Idea Tracker](https://idea-tracker-v2.appwrite.network) (SaaS / Productivity Tool) – 💡 Capture, expand, and organize ideas
