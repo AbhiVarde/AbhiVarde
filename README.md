@@ -17,9 +17,11 @@
 - 🌍 Code from anywhere  
 - 🎯 Currently focused on Product Engineering, Design Systems & Developer Experience  
 
-### 🌱 Exploring Opportunities  
+### 🌱 Open Source
 
-I'm open to **Product Engineer or Design Engineer roles** at developer-focused, product-driven companies.
+Active contributor to **Appwrite**, **Umami**, and **Mintlify**.
+
+> **Open to Product Engineer or Design Engineer roles** at product-driven and AI-focused companies.
 
 ### 🪴 Things I've Built
 
