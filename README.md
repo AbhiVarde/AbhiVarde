@@ -2,19 +2,13 @@
 
 # Hey, I'm Abhi Varde 👋
 
-<a href="https://twitter.com/varde_abhi" target="_blank">
-  <img src="https://img.shields.io/twitter/follow/varde_abhi?style=social" alt="Twitter">
-</a>
-<a href="https://www.linkedin.com/in/abhi-varde-6634551b1/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-<a href="https://github.com/sponsors/AbhiVarde" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub%20Sponsors-%E2%9D%A4-red?style=flat-square" alt="GitHub Sponsors">
-</a>
-<a href="https://buymeacoffee.com/abhivarde9h" target="_blank">
-  <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%E2%98%95-yellow?style=flat-square" alt="Buy Me a Coffee">
-</a>
-<img src="https://komarev.com/ghpvc/?username=AbhiVarde&style=flat-square&color=brightgreen&label=Profile%20Views" alt="Profile Views" />
+<div style="display:flex; align-items:center; gap:6px;">
+  <a href="https://twitter.com/varde_abhi" target="_blank"><img src="https://img.shields.io/twitter/follow/varde_abhi?style=social" alt="Twitter"></a>
+  <a href="https://www.linkedin.com/in/abhi-varde-6634551b1/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://github.com/sponsors/AbhiVarde" target="_blank"><img src="https://img.shields.io/badge/GitHub%20Sponsors-%E2%9D%A4-red?style=flat-square" alt="GitHub Sponsors"></a>
+  <a href="https://buymeacoffee.com/abhivarde9h" target="_blank"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%E2%98%95-yellow?style=flat-square" alt="Buy Me a Coffee"></a>
+  <img src="https://komarev.com/ghpvc/?username=AbhiVarde&style=flat-square&color=brightgreen&label=Profile%20Views" alt="Profile Views" />
+</div>
 
 </div>
 
