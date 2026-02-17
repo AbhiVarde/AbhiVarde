@@ -29,10 +29,11 @@ Active contributor to **Appwrite**, **Umami**, and **Mintlify**.
 
 ### 🪴 Things I've Built
 
+* **NEW** · [Jobs](https://jobs.abhivarde.in) **(AI Platform)** – 🤖 AI-powered job matching platform with agentic search across any profession
 * **NEW** · [Billow](https://billow.abhivarde.in) **(SaaS)** – 🧾 Simple GST sales invoicing for Indian B2B businesses  
 * **NEW** · [Nothify](https://nothify.abhivarde.in) **(AI agent)** – 🚨 Autonomous 404 page generator for Next.js repositories  
 * [Svelte Drawer](https://drawer.abhivarde.in) **(NPM)** – 📦 Smooth, accessible drawer component for Svelte 5  
 * [Sendra](https://sendra.vercel.app) **(Monitoring)** – 📡 Monitoring & analysis for Appwrite Sites & Functions deployments  
 * [ErrExplain](https://errexplain.app) **(Dev tool)** – 🛠️ Turns confusing errors into plain English  
 * [Idea Tracker](https://idea-tracker-v2.appwrite.network) **(SaaS)** – 💡 Capture, expand, and organize ideas  
-* [Sync UI](https://syncui.design) **(UI)** – 🎨 Polished UI components & templates with motion for devs
+* [Sync UI](https://syncui.design) **(UI)** – 🎨 Polished UI components & templates with motionfor devs
