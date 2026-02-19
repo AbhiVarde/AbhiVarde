@@ -27,13 +27,17 @@ Active contributor to **Appwrite** (Console, Website), **Umami** (Website, React
 
 ### 🪴 Things I've Built
 
-* **NEW** · [Jobs](https://jobs.abhivarde.in) **(AI Platform)** – AI-powered job matching platform with agentic search
-* **NEW** · [Billow](https://billow.abhivarde.in) **(SaaS)** – Simple GST sales invoicing for Indian B2B businesses
-* **NEW** · [Nothify](https://nothify.abhivarde.in) **(AI Agent)** – Autonomous 404 page generator for Next.js repos
-* [Svelte Drawer](https://drawer.abhivarde.in) **(NPM)** – Smooth, accessible drawer component for Svelte 5
-* [Sendra](https://sendra.vercel.app) **(Monitoring)** – Monitoring & analysis for Appwrite deployments
-* [ErrExplain](https://errexplain.app) **(Dev Tool)** – Turns confusing errors into plain English
-* [Idea Tracker](https://idea-tracker-v2.appwrite.network) **(SaaS)** – Capture, expand, and organize ideas
-* [Sync UI](https://syncui.design) **(UI System)** – Polished UI components & templates with motion
+### 🪴 Things I've Built
+
+### 🪴 Things I've Built
+
+* [Nothify](https://nothify.abhivarde.in) **(AI Agent)** → Autonomous 404 page generator for Next.js repos
+* [Sync UI](https://syncui.design) **(UI System)** → Polished UI components & templates with motion
+* [Svelte Drawer](https://drawer.abhivarde.in) **(NPM)** → Smooth, accessible drawer component for Svelte 5
+* [Billow](https://billow.abhivarde.in) **(SaaS)** → Simple GST sales invoicing for Indian B2B businesses
+* [Jobs](https://jobs.abhivarde.in) **(AI Platform)** → AI-powered job matching platform with agentic search
+* [Sendra](https://sendra.vercel.app) **(Monitoring)** → Monitoring & analysis for Appwrite deployments
+* [ErrExplain](https://errexplain.app) **(Dev Tool)** → Turns confusing errors into plain English
+* [Idea Tracker](https://idea-tracker-v2.appwrite.network) **(SaaS)** → Capture, expand, and organize ideas
 
 > Explore everything at **[abhivarde.in](https://abhivarde.in)**
