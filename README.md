@@ -27,10 +27,6 @@ Active contributor to **Appwrite** (Console, Website), **Umami** (Website, React
 
 ### 🪴 Things I've Built
 
-### 🪴 Things I've Built
-
-### 🪴 Things I've Built
-
 * [Nothify](https://nothify.abhivarde.in) **(AI Agent)** → Autonomous 404 page generator for Next.js repos
 * [Sync UI](https://syncui.design) **(UI System)** → Polished UI components & templates with motion
 * [Svelte Drawer](https://drawer.abhivarde.in) **(NPM)** → Smooth, accessible drawer component for Svelte 5
