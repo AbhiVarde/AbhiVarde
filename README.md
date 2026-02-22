@@ -21,7 +21,7 @@
 
 ### 🌱 Open Source
 
-Active contributor to **Appwrite** (Console, Website), **Umami** (Website, React Zen), and **Mintlify** (Documentation).
+Active contributor to **Appwrite** (Console, Website), **Umami** (Website, React Zen), and **Mintlify** (Docs).
 
 > PRs reviewed and merged by core maintainers. Collaborated with designers and product engineers across teams.
 
