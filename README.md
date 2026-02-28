@@ -6,7 +6,7 @@
 ![Views](https://komarev.com/ghpvc/?username=AbhiVarde&style=flat-square&color=brightgreen&label=Views)
 
 Product Engineer building AI tooling, automation-first SaaS, and scalable UI systems.  
-130+ GitHub stars · Deployed across 110+ countries.
+137+ GitHub stars · 3,000+ npm downloads · Used by developers in 110+ countries.
 
 ### 🪴 Projects
 
