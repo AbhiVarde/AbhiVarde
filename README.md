@@ -37,4 +37,4 @@ Product Engineer building AI tooling, automation-first SaaS, and scalable UI sys
 
 Actively exploring **Product Engineer** and **Design Engineer** roles at AI-native and LLM-driven product companies where AI is core to what is being built, not just a feature.
 
-Reach out on [Twitter](https://twitter.com/varde_abhi) or [LinkedIn](https://www.linkedin.com/in/abhi-varde) or explore [abhivarde.in](https://abhivarde.in)
+Reach out on [X](https://x.com/varde_abhi) or [LinkedIn](https://www.linkedin.com/in/abhi-varde) or explore [abhivarde.in](https://abhivarde.in)
