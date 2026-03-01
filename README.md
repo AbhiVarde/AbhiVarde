@@ -14,7 +14,7 @@ Product Engineer building AI tooling, automation-first SaaS, and scalable UI sys
 |---|---|---|
 | [NodeFlow](https://nodeflow.abhivarde.in) | Workflow Builder | Visual node-based workflow builder for the browser |
 | [Nothify](https://nothify.abhivarde.in) | AI Agent | Autonomous 404 page generator for Next.js repos |
-| [Sync UI](https://syncui.design) | UI System | Polished components & templates with motion |
+| [Sync UI](https://syncui.design) | UI System | Polished components, blocks & templates built with MUI + Motion |
 | [Svelte Drawer](https://drawer.abhivarde.in) | NPM Package | Smooth, accessible drawer component for Svelte 5 |
 | [Billow](https://billow.abhivarde.in) | SaaS | GST sales invoicing for Indian B2B businesses |
 | [Jobs](https://jobs.abhivarde.in) | AI Platform | AI-powered job matching with agentic search |
