@@ -1,16 +1,15 @@
-# Abhi Varde
+<img src="https://github.com/user-attachments/assets/e4b9ab96-15db-4d7b-b56a-522d6456d9d5" width="100%" height="200" />
 
-[![Twitter](https://img.shields.io/twitter/follow/varde_abhi?style=social)](https://twitter.com/varde_abhi)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhi-varde)
-[![Portfolio](https://img.shields.io/badge/Portfolio-abhivarde.in-black?style=flat-square)](https://abhivarde.in)
-[![Sponsor](https://img.shields.io/badge/Sponsor-%E2%9D%A4-ea4aaa?style=flat-square&logo=github-sponsors)](https://github.com/sponsors/AbhiVarde)
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=flat-square&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/abhivarde9h)
-![Views](https://komarev.com/ghpvc/?username=AbhiVarde&style=flat-square&color=brightgreen&label=Views)
+## Product Engineer · OSS Contributor
 
-Product Engineer building AI tooling, automation-first SaaS, and scalable UI systems.  
-137+ GitHub stars · 3,000+ npm downloads · used by developers in 110+ countries.
+Building AI tooling, automation-first SaaS, and scalable UI systems.  
+137+ GitHub stars · 3,000+ npm downloads · used by developers in 110+ countries
 
-### 🪴 Projects
+Currently open to new roles at product-driven or AI-native companies, say hi on:  
+
+[![](https://img.shields.io/badge/TWITTER-000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/varde_abhi) [![LinkedIn](https://img.shields.io/badge/LINKEDIN-000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhi-varde) [![abhivarde.in](https://img.shields.io/badge/abhivarde.in-000?style=for-the-badge&logoColor=white)](https://abhivarde.in)
+
+### Projects
 
 | Project | Type | What it does |
 |---|---|---|
@@ -24,27 +23,20 @@ Product Engineer building AI tooling, automation-first SaaS, and scalable UI sys
 | [ErrExplain](https://errexplain.appwrite.network) | Dev Tool | Turns confusing errors into plain English |
 | [Idea Tracker](https://idea-tracker-v2.appwrite.network) | SaaS | Capture, expand, and organize ideas |
 
-### 🌱 Open Source
+### Open Source
 
 | Project | Contributions |
 |---|---|
-| **better-auth** | better-hub |
+| **Better Auth** | better-hub |
 | **Mintlify** | Docs |
 | **Appwrite** | Console, Website |
 | **Umami** | Website, React Zen |
 | **Archestra AI** | Website |
 
-PRs merged by core maintainers. worked with designers and engineers across distributed teams.
+PRs merged by core maintainers. Worked with designers and engineers across distributed teams.
 
-### 💼 Open to work
+### Support
 
-looking for my next role at a product-driven or AI-native company where I can build and ship things that matter.
+If something I made was useful, a coffee or sponsorship goes a long way.
 
-Say hi on [X](https://x.com/varde_abhi) · [LinkedIn](https://www.linkedin.com/in/abhi-varde) · [abhivarde.in](https://abhivarde.in)
-
-### ☕ Support
-
-been building and contributing full-time for the past few months. if something i made was useful to you, a coffee or sponsorship goes a long way.
-
-[![GitHub Sponsors](https://img.shields.io/badge/Sponsor%20on%20GitHub-%E2%9D%A4-ea4aaa?style=flat-square&logo=github-sponsors)](https://github.com/sponsors/AbhiVarde)
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=flat-square&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/abhivarde9h)
+[![GitHub Sponsors](https://img.shields.io/badge/SPONSOR-000?style=for-the-badge&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/AbhiVarde) [![Buy Me a Coffee](https://img.shields.io/badge/BUY%20ME%20A%20COFFEE-000?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white)](https://buymeacoffee.com/abhivarde9h)
