@@ -3,10 +3,12 @@
 [![Twitter](https://img.shields.io/twitter/follow/varde_abhi?style=social)](https://twitter.com/varde_abhi)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhi-varde)
 [![Portfolio](https://img.shields.io/badge/Portfolio-abhivarde.in-black?style=flat-square)](https://abhivarde.in)
+[![Sponsor](https://img.shields.io/badge/Sponsor-%E2%9D%A4-ea4aaa?style=flat-square&logo=github-sponsors)](https://github.com/sponsors/AbhiVarde)
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=flat-square&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/abhivarde9h)
 ![Views](https://komarev.com/ghpvc/?username=AbhiVarde&style=flat-square&color=brightgreen&label=Views)
 
 Product Engineer building AI tooling, automation-first SaaS, and scalable UI systems.  
-137+ GitHub stars · 3,000+ npm downloads · Used by developers in 110+ countries.
+137+ GitHub stars · 3,000+ npm downloads · used by developers in 110+ countries.
 
 ### 🪴 Projects
 
@@ -26,15 +28,23 @@ Product Engineer building AI tooling, automation-first SaaS, and scalable UI sys
 
 | Project | Contributions |
 |---|---|
+| **better-auth** | better-hub |
 | **Mintlify** | Docs |
 | **Appwrite** | Console, Website |
 | **Umami** | Website, React Zen |
 | **Archestra AI** | Website |
 
-> PRs reviewed and merged by core maintainers. Collaborated with designers and product engineers across distributed teams.
+PRs merged by core maintainers. worked with designers and engineers across distributed teams.
 
-### 💼 Open to Opportunities
+### 💼 Open to work
 
-Actively exploring **Product Engineer** and **Design Engineer** roles at AI-native and LLM-driven product companies where AI is core to what is being built, not just a feature.
+Looking for **Product Engineer** or **Design Engineer** roles at AI-native companies where I can build things that matter and ship fast.
 
-Reach out on [X](https://x.com/varde_abhi) or [LinkedIn](https://www.linkedin.com/in/abhi-varde) or explore [abhivarde.in](https://abhivarde.in)
+Say hi on [X](https://x.com/varde_abhi) · [LinkedIn](https://www.linkedin.com/in/abhi-varde) · [abhivarde.in](https://abhivarde.in)
+
+### ☕ Support
+
+been building and contributing full-time for the past few months. if something i made was useful to you, a coffee or sponsorship goes a long way.
+
+[![GitHub Sponsors](https://img.shields.io/badge/Sponsor%20on%20GitHub-%E2%9D%A4-ea4aaa?style=flat-square&logo=github-sponsors)](https://github.com/sponsors/AbhiVarde)
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=flat-square&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/abhivarde9h)
