@@ -1,6 +1,6 @@
 <img src="https://github.com/user-attachments/assets/e4b9ab96-15db-4d7b-b56a-522d6456d9d5" width="100%" height="200" />
 
-## Product Engineer · OSS Contributor
+## Product Engineer • AI & DevTools • OSS Contributor
 
 Building AI tooling, automation-first SaaS, and scalable UI systems.  
 137+ GitHub stars · 3,000+ npm downloads · used by developers in 110+ countries
