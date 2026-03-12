@@ -5,9 +5,9 @@
 Building AI tooling, automation-first SaaS, and scalable UI systems.  
 137+ GitHub stars · 3,000+ npm downloads · used by developers in 110+ countries
 
-Currently open to new roles at product-driven or AI-native companies, say hi on:  
+Currently open to new roles at product-driven or AI-native companies, say hi on: 
 
-[![](https://img.shields.io/badge/TWITTER-000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/varde_abhi) [![LinkedIn](https://img.shields.io/badge/LINKEDIN-000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhi-varde) [![abhivarde.in](https://img.shields.io/badge/abhivarde.in-000?style=for-the-badge&logoColor=white)](https://abhivarde.in)
+[![](https://img.shields.io/badge/TWITTER-000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/varde_abhi) [![LinkedIn](https://img.shields.io/badge/LINKEDIN-000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhi-varde) [![abhivarde.in](https://img.shields.io/badge/abhivarde.in-000?style=for-the-badge&logoColor=white)](https://abhivarde.in) [![Views](https://komarev.com/ghpvc/?username=AbhiVarde&style=for-the-badge&color=000000&label=VIEWS)](https://github.com/AbhiVarde)
 
 ### Projects
 
