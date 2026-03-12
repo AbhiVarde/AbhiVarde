@@ -38,7 +38,7 @@ PRs merged by core maintainers. worked with designers and engineers across distr
 
 ### 💼 Open to work
 
-Looking for **Product Engineer** or **Design Engineer** roles at AI-native companies where I can build things that matter and ship fast.
+looking for my next role at a product-driven or AI-native company where I can build and ship things that matter.
 
 Say hi on [X](https://x.com/varde_abhi) · [LinkedIn](https://www.linkedin.com/in/abhi-varde) · [abhivarde.in](https://abhivarde.in)
 
