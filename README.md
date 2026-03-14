@@ -4,7 +4,7 @@
 Building AI tooling, automation-first SaaS, and scalable UI systems.  
 137+ GitHub stars · 3,000+ npm downloads · used by developers in 110+ countries
 
-[![](https://komarev.com/ghpvc/?username=AbhiVarde&style=flat&color=f76707&label=profile+views&label-color=333333)](https://github.com/AbhiVarde) [![](https://gitviews.com/user/AbhiVarde/repos.svg?style=flat&label=repo+views&color=%23f76707&label-color=555555)](https://github.com/AbhiVarde?tab=repositories)
+[![](https://komarev.com/ghpvc/?username=AbhiVarde&style=flat&color=f76707&label=profile+views&labelColor=333333)](https://github.com/AbhiVarde) [![](https://gitviews.com/user/AbhiVarde/repos.svg?style=flat&label=repo+views&color=%23f76707&label-color=555555)](https://github.com/AbhiVarde?tab=repositories) 
 
 Currently open to new roles at product-driven or AI-native companies, say hi on:
 
@@ -12,17 +12,17 @@ Currently open to new roles at product-driven or AI-native companies, say hi on:
 
 ### Projects
 
-| Project | Type | What it does | Stars |
-|---|---|---|:---:|
-| [NodeFlow](https://nodeflow.abhivarde.in) | Workflow Builder | Visual node-based workflow builder for the browser | 🔒 |
-| [Nothify](https://nothify.abhivarde.in) | AI Agent | Autonomous 404 page generator for Next.js repos | 🔒 |
-| [Sync UI](https://syncui.design) | UI System | Polished components, blocks & templates built with MUI + Motion | [![](https://img.shields.io/github/stars/AbhiVarde/syncui?style=flat&label=★&labelColor=000&color=f76707)](https://github.com/AbhiVarde/syncui) |
-| [Svelte Drawer](https://drawer.abhivarde.in) | NPM Package | Smooth, accessible drawer component for Svelte 5 | [![](https://img.shields.io/github/stars/AbhiVarde/svelte-drawer?style=flat&label=★&labelColor=000&color=f76707)](https://github.com/AbhiVarde/svelte-drawer) |
-| [Billow](https://billow.abhivarde.in) | SaaS | GST sales invoicing for Indian B2B businesses | 🔒 |
-| [Jobs](https://jobs.abhivarde.in) | AI Platform | AI-powered job matching with agentic search | 🔒 |
-| [Sendra](https://sendra.vercel.app) | Monitoring | Monitoring & analysis for Appwrite deployments | [![](https://img.shields.io/github/stars/AbhiVarde/sendra?style=flat&label=★&labelColor=000&color=f76707)](https://github.com/AbhiVarde/sendra) |
-| [ErrExplain](https://errexplain.appwrite.network) | Dev Tool | Turns confusing errors into plain English | [![](https://img.shields.io/github/stars/AbhiVarde/errexplain?style=flat&label=★&labelColor=000&color=f76707)](https://github.com/AbhiVarde/errexplain) |
-| [Idea Tracker](https://idea-tracker-v2.appwrite.network) | SaaS | Capture, expand, and organize ideas | [![](https://img.shields.io/github/stars/AbhiVarde/idea-tracker?style=flat&label=★&labelColor=000&color=f76707)](https://github.com/AbhiVarde/idea-tracker) |
+| Project | Type | What it does |
+|---|---|---|
+| [NodeFlow](https://nodeflow.abhivarde.in) | Workflow Builder | Visual node-based workflow builder for the browser |
+| [Nothify](https://nothify.abhivarde.in) | AI Agent | Autonomous 404 page generator for Next.js repos |
+| [Sync UI](https://syncui.design) | UI System | Polished components, blocks & templates built with MUI + Motion |
+| [Svelte Drawer](https://drawer.abhivarde.in) | NPM Package | Smooth, accessible drawer component for Svelte 5 |
+| [Billow](https://billow.abhivarde.in) | SaaS | GST sales invoicing for Indian B2B businesses |
+| [Jobs](https://jobs.abhivarde.in) | AI Platform | AI-powered job matching with agentic search |
+| [Sendra](https://sendra.vercel.app) | Monitoring | Monitoring & analysis for Appwrite deployments |
+| [ErrExplain](https://errexplain.appwrite.network) | Dev Tool | Turns confusing errors into plain English |
+| [Idea Tracker](https://idea-tracker-v2.appwrite.network) | SaaS | Capture, expand, and organize ideas |
 
 ### Open Source
 
