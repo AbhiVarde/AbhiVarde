@@ -1,27 +1,28 @@
 <img src="https://github.com/user-attachments/assets/e4b9ab96-15db-4d7b-b56a-522d6456d9d5" width="100%" height="200" />
 
 ## Product Engineer • AI & DevTools • OSS Contributor
-
 Building AI tooling, automation-first SaaS, and scalable UI systems.  
 137+ GitHub stars · 3,000+ npm downloads · used by developers in 110+ countries
 
-Currently open to new roles at product-driven or AI-native companies, say hi on: 
+[![](https://komarev.com/ghpvc/?username=AbhiVarde&style=flat&color=f76707&label=profile+views&label-color=333333)](https://github.com/AbhiVarde) [![](https://gitviews.com/user/AbhiVarde/repos.svg?style=flat&label=repo+views&color=%23f76707&label-color=555555)](https://github.com/AbhiVarde?tab=repositories)
 
-[![](https://img.shields.io/badge/TWITTER-000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/varde_abhi) [![LinkedIn](https://img.shields.io/badge/LINKEDIN-000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhi-varde) [![abhivarde.in](https://img.shields.io/badge/abhivarde.in-000?style=for-the-badge&logoColor=white)](https://abhivarde.in) [![Views](https://komarev.com/ghpvc/?username=AbhiVarde&style=for-the-badge&color=000000&label=VIEWS)](https://github.com/AbhiVarde)
+Currently open to new roles at product-driven or AI-native companies, say hi on:
+
+[![](https://img.shields.io/badge/Twitter-000?style=flat&logo=x&logoColor=white)](https://twitter.com/varde_abhi) [![](https://img.shields.io/badge/LinkedIn-000?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhi-varde) [![](https://img.shields.io/badge/abhivarde.in-000?style=flat)](https://abhivarde.in)
 
 ### Projects
 
-| Project | Type | What it does |
-|---|---|---|
-| [NodeFlow](https://nodeflow.abhivarde.in) | Workflow Builder | Visual node-based workflow builder for the browser |
-| [Nothify](https://nothify.abhivarde.in) | AI Agent | Autonomous 404 page generator for Next.js repos |
-| [Sync UI](https://syncui.design) | UI System | Polished components, blocks & templates built with MUI + Motion |
-| [Svelte Drawer](https://drawer.abhivarde.in) | NPM Package | Smooth, accessible drawer component for Svelte 5 |
-| [Billow](https://billow.abhivarde.in) | SaaS | GST sales invoicing for Indian B2B businesses |
-| [Jobs](https://jobs.abhivarde.in) | AI Platform | AI-powered job matching with agentic search |
-| [Sendra](https://sendra.vercel.app) | Monitoring | Monitoring & analysis for Appwrite deployments |
-| [ErrExplain](https://errexplain.appwrite.network) | Dev Tool | Turns confusing errors into plain English |
-| [Idea Tracker](https://idea-tracker-v2.appwrite.network) | SaaS | Capture, expand, and organize ideas |
+| Project | Type | What it does | Stars |
+|---|---|---|:---:|
+| [NodeFlow](https://nodeflow.abhivarde.in) | Workflow Builder | Visual node-based workflow builder for the browser | 🔒 |
+| [Nothify](https://nothify.abhivarde.in) | AI Agent | Autonomous 404 page generator for Next.js repos | 🔒 |
+| [Sync UI](https://syncui.design) | UI System | Polished components, blocks & templates built with MUI + Motion | [![](https://img.shields.io/github/stars/AbhiVarde/syncui?style=flat&label=★&labelColor=000&color=f76707)](https://github.com/AbhiVarde/syncui) |
+| [Svelte Drawer](https://drawer.abhivarde.in) | NPM Package | Smooth, accessible drawer component for Svelte 5 | [![](https://img.shields.io/github/stars/AbhiVarde/svelte-drawer?style=flat&label=★&labelColor=000&color=f76707)](https://github.com/AbhiVarde/svelte-drawer) |
+| [Billow](https://billow.abhivarde.in) | SaaS | GST sales invoicing for Indian B2B businesses | 🔒 |
+| [Jobs](https://jobs.abhivarde.in) | AI Platform | AI-powered job matching with agentic search | 🔒 |
+| [Sendra](https://sendra.vercel.app) | Monitoring | Monitoring & analysis for Appwrite deployments | [![](https://img.shields.io/github/stars/AbhiVarde/sendra?style=flat&label=★&labelColor=000&color=f76707)](https://github.com/AbhiVarde/sendra) |
+| [ErrExplain](https://errexplain.appwrite.network) | Dev Tool | Turns confusing errors into plain English | [![](https://img.shields.io/github/stars/AbhiVarde/errexplain?style=flat&label=★&labelColor=000&color=f76707)](https://github.com/AbhiVarde/errexplain) |
+| [Idea Tracker](https://idea-tracker-v2.appwrite.network) | SaaS | Capture, expand, and organize ideas | [![](https://img.shields.io/github/stars/AbhiVarde/idea-tracker?style=flat&label=★&labelColor=000&color=f76707)](https://github.com/AbhiVarde/idea-tracker) |
 
 ### Open Source
 
@@ -39,4 +40,4 @@ PRs merged by core maintainers. Worked with designers and engineers across distr
 
 If something I made was useful, a coffee or sponsorship goes a long way.
 
-[![GitHub Sponsors](https://img.shields.io/badge/SPONSOR-000?style=for-the-badge&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/AbhiVarde) [![Buy Me a Coffee](https://img.shields.io/badge/BUY%20ME%20A%20COFFEE-000?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white)](https://buymeacoffee.com/abhivarde9h)
+[![](https://img.shields.io/badge/Sponsor-000?style=flat&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/AbhiVarde) [![](https://img.shields.io/badge/Buy%20me%20a%20coffee-000?style=flat&logo=buy-me-a-coffee&logoColor=white)](https://buymeacoffee.com/abhivarde9h)
