@@ -36,8 +36,9 @@ Currently open to new roles at product-driven or AI-native companies, say hi on:
 
 PRs merged by core maintainers. Worked with designers and engineers across distributed teams.
 
-### Support
+### Sponsor My Work
 
-If something I made was useful, a coffee or sponsorship goes a long way.
+If something I built helped you or your team, consider sponsoring my work to support continued development.
 
-[![](https://img.shields.io/badge/Sponsor-000?style=flat&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/AbhiVarde) [![](https://img.shields.io/badge/Buy%20me%20a%20coffee-000?style=flat&logo=buy-me-a-coffee&logoColor=white)](https://buymeacoffee.com/abhivarde9h)
+[![](https://img.shields.io/badge/Sponsor-000?style=flat&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/AbhiVarde) 
+[![](https://img.shields.io/badge/Buy%20me%20a%20coffee-000?style=flat&logo=buy-me-a-coffee&logoColor=white)](https://buymeacoffee.com/abhivarde9h)
