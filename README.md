@@ -4,7 +4,7 @@
 Building AI tooling, automation-first SaaS, and scalable UI systems.  
 137+ GitHub stars · 3,000+ npm downloads · used by developers in 110+ countries
 
-[![](https://komarev.com/ghpvc/?username=AbhiVarde&style=flat&color=f76707&label=profile+views&labelColor=333333)](https://github.com/AbhiVarde) [![](https://gitviews.com/user/AbhiVarde/repos.svg?style=flat&label=repo+views&color=%23f76707&label-color=555555)](https://github.com/AbhiVarde?tab=repositories) 
+[![](https://komarev.com/ghpvc/?username=AbhiVarde&style=flat&color=f76707&label=Profile+views&labelColor=333333)](https://github.com/AbhiVarde) [![](https://gitviews.com/user/AbhiVarde/repos.svg?style=flat&label=Repo+views&color=%23f76707&label-color=555555)](https://github.com/AbhiVarde?tab=repositories) 
 
 Currently open to new roles at product-driven or AI-native companies, say hi on:
 
