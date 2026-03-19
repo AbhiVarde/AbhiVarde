@@ -30,7 +30,7 @@ Currently open to new roles at product-driven or AI-native companies, say hi on:
 |---|---|
 | **Better Auth** | better-hub |
 | **Mintlify** | Docs |
-| **Appwrite** | Console, Website |
+| **Appwrite** | Console, Website, Arena |
 | **Umami** | Website, React Zen |
 | **Archestra AI** | Website |
 
