@@ -2,7 +2,7 @@
 
 ## Product Engineer • AI & DevTools • OSS Contributor
 Building AI tooling, automation-first SaaS, and scalable UI systems.  
-137+ GitHub stars · 3,000+ npm downloads · used by developers in 110+ countries
+140+ GitHub stars · 3,000+ npm downloads · used by developers in 120+ countries
 
 [![](https://komarev.com/ghpvc/?username=AbhiVarde&style=flat&color=f76707&label=Profile+views&labelColor=333333)](https://github.com/AbhiVarde) [![](https://gitviews.com/user/AbhiVarde/repos.svg?style=flat&label=Repo+views&color=%23f76707&label-color=555555)](https://github.com/AbhiVarde?tab=repositories) 
 
