@@ -11,9 +11,9 @@ Currently open to new roles at product-driven or AI-native companies, say hi on:
 [![](https://img.shields.io/badge/Twitter-000?style=flat&logo=x&logoColor=white)](https://twitter.com/varde_abhi) [![](https://img.shields.io/badge/LinkedIn-000?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhi-varde) [![](https://img.shields.io/badge/abhivarde.in-000?style=flat)](https://abhivarde.in)
 
 ### Projects
-
 | Project | Type | What it does |
 |---|---|---|
+| [Rekap](https://github.com/AbhiVarde/rekap) | CLI Tool | See exactly where you left off in any git repo |
 | [NodeFlow](https://nodeflow.abhivarde.in) | Workflow Builder | Visual node-based workflow builder for the browser |
 | [Nothify](https://nothify.abhivarde.in) | AI Agent | Autonomous 404 page generator for Next.js repos |
 | [Sync UI](https://syncui.design) | UI System | Polished components, blocks & templates built with MUI + Motion |
