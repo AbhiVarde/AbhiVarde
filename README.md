@@ -4,7 +4,7 @@ Building AI tooling, automation-first SaaS, and scalable UI systems.
 
 Currently open to new roles at product-driven or AI-native companies.
 
-[![](https://img.shields.io/badge/Twitter-000?style=flat&logo=x&logoColor=white)](https://twitter.com/varde_abhi) [![](https://img.shields.io/badge/LinkedIn-000?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhi-varde) [![](https://img.shields.io/badge/abhivarde.in-000?style=flat)](https://abhivarde.in)
+[![](https://img.shields.io/badge/-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/varde_abhi) [![](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhi-varde) [![](https://img.shields.io/badge/abhivarde.in-000000?style=for-the-badge)](https://abhivarde.in) [![](https://img.shields.io/badge/Sponsor-000000?style=for-the-badge&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/AbhiVarde) [![](https://img.shields.io/badge/Buy%20me%20a%20coffee-000000?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white)](https://buymeacoffee.com/abhivarde9h)
 
 ### Projects
 | Project | Type | What it does |
@@ -28,6 +28,3 @@ Currently open to new roles at product-driven or AI-native companies.
 | **Appwrite** | Console, Website, Arena |
 | **Umami** | Website, React Zen |
 | **Archestra AI** | Website |
-
-### Sponsor
-[![](https://img.shields.io/badge/Sponsor-000?style=flat&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/AbhiVarde) [![](https://img.shields.io/badge/Buy%20me%20a%20coffee-000?style=flat&logo=buy-me-a-coffee&logoColor=white)](https://buymeacoffee.com/abhivarde9h)
