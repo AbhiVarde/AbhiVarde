@@ -1,6 +1,6 @@
 ## Product Engineer • AI & DevTools • OSS Contributor
 Building AI tooling, automation-first SaaS, and scalable UI systems.  
-140+ GitHub stars · 3,000+ npm downloads · used by developers in 120+ countries
+150+ GitHub stars · 4,000+ npm downloads · used by developers in 125+ countries
 
 Currently open to new roles at product-driven or AI-native companies.
 
