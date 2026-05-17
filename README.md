@@ -24,7 +24,7 @@ Open to new roles → [abhivarde.in](https://abhivarde.in)
 |---|---|
 | **Supabase** | Website, UI Library |
 | **Better Auth** | better-hub |
-| **Mintlify** | Docs |
 | **Appwrite** | Console, Website, Arena |
+| **Mintlify** | Docs |
 | **Umami** | Website, React Zen |
 | **Archestra AI** | Website |
