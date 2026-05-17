@@ -1,15 +1,14 @@
-## Product Engineer • AI & DevTools • OSS Contributor
-Building AI tooling, automation-first SaaS, and scalable UI systems.  
-150+ GitHub stars · 4,000+ npm downloads · used by developers in 125+ countries
+Building developer tools, AI products, and open source software.  
+4,000+ npm downloads · 150+ GitHub stars · used in 125+ countries  
+Open to new roles → [abhivarde.in](https://abhivarde.in)
 
-Currently open to new roles at product-driven or AI-native companies.
-
-[![](https://img.shields.io/badge/-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/varde_abhi) [![](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhi-varde) [![](https://img.shields.io/badge/abhivarde.in-000000?style=for-the-badge)](https://abhivarde.in) [![](https://img.shields.io/badge/Sponsor-000000?style=for-the-badge&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/AbhiVarde) [![](https://img.shields.io/badge/Buy%20me%20a%20coffee-000000?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white)](https://buymeacoffee.com/abhivarde9h)
+[![](https://img.shields.io/badge/-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/varde_abhi) [![](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhi-varde) [![](https://img.shields.io/badge/Sponsor-000000?style=for-the-badge&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/AbhiVarde)
 
 ### Projects
 | Project | Type | What it does |
 |---|---|---|
-| [Rekap](https://github.com/AbhiVarde/rekap) | CLI Tool | See exactly where you left off in any git repo |
+| [Snipply](https://snipply.abhivarde.in) | Dev Tool | Live React component editor with build, preview, fork, share |
+| [Rekap](https://github.com/AbhiVarde/rekap) | CLI | See exactly where you left off in any git repo |
 | [NodeFlow](https://nodeflow.abhivarde.in) | Workflow Builder | Visual node-based workflow builder for the browser |
 | [Nothify](https://nothify.abhivarde.in) | AI Agent | Autonomous 404 page generator for Next.js repos |
 | [Sync UI](https://syncui.design) | UI System | Components, blocks and templates built with MUI and Motion |
@@ -23,6 +22,7 @@ Currently open to new roles at product-driven or AI-native companies.
 ### Open Source
 | Project | Contributions |
 |---|---|
+| **Supabase** | Website, UI Library |
 | **Better Auth** | better-hub |
 | **Mintlify** | Docs |
 | **Appwrite** | Console, Website, Arena |
