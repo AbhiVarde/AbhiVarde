@@ -7,7 +7,7 @@ Open to new roles → [abhivarde.in](https://abhivarde.in)
 ### Projects
 | Project | Type | What it does |
 |---|---|---|
-| [Snipply](https://snipply.abhivarde.in) | Dev Tool | Live React component editor with build, preview, fork, share |
+| [Snipply](https://snipply.abhivarde.in) | Dev Tool | A playground for React components with preview, fork, share and offline support |
 | [Rekap](https://github.com/AbhiVarde/rekap) | CLI | See exactly where you left off in any git repo |
 | [NodeFlow](https://nodeflow.abhivarde.in) | Workflow Builder | Visual node-based workflow builder for the browser |
 | [Nothify](https://nothify.abhivarde.in) | AI Agent | Autonomous 404 page generator for Next.js repos |
