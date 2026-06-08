@@ -1,10 +1,13 @@
-Building developer tools, AI products, and open source software.  
-4,000+ npm downloads · 150+ GitHub stars · used in 125+ countries  
-Open to new roles → [abhivarde.in](https://abhivarde.in)
+Building developer tools, AI products, and open source software.
 
-[![](https://img.shields.io/badge/-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/varde_abhi) [![](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhi-varde) [![](https://img.shields.io/badge/Sponsor-000000?style=for-the-badge&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/AbhiVarde)
+4,000+ npm downloads · 150+ GitHub stars · used in 125+ countries
+
+Open to frontend and product engineer roles → [abhivarde.in](https://abhivarde.in)
+
+[![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/varde_abhi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhi-varde) [![Vercel Community](https://img.shields.io/badge/Vercel%20Community-000000?style=flat-square&logo=vercel&logoColor=white)](https://vercel.com/community/abhivarde) [![skills.sh](https://img.shields.io/badge/skills.sh-000000?style=flat-square&logo=vercel&logoColor=white)](https://www.skills.sh/abhivarde) [![Sponsor](https://img.shields.io/badge/Sponsor-000000?style=flat-square&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/AbhiVarde)
 
 ### Projects
+
 | Project | Type | What it does |
 |---|---|---|
 | [Snipply](https://snipply.abhivarde.in) | Dev Tool | A playground for React components with preview, fork, share and offline support |
@@ -19,7 +22,19 @@ Open to new roles → [abhivarde.in](https://abhivarde.in)
 | [ErrExplain](https://errexplain.appwrite.network) | Dev Tool | Turns confusing errors into plain English |
 | [Idea Tracker](https://idea-tracker-v2.appwrite.network) | SaaS | Capture, expand, and organize ideas |
 
+### Agent Skills
+
+| Skill | Install |
+|---|---|
+| [Sync UI](https://skills.sh/abhivarde/syncui) | `npx skills add AbhiVarde/syncui` |
+| [Nothify](https://skills.sh/abhivarde/nothify-skill) | `npx skills add AbhiVarde/nothify-skill` |
+| [Svelte Drawer](https://skills.sh/abhivarde/svelte-drawer) | `npx skills add AbhiVarde/svelte-drawer` |
+| [Rekap](https://skills.sh/abhivarde/rekap) | `npx skills add AbhiVarde/rekap` |
+
+Works with Cursor, Claude Code, Copilot, Windsurf and 10+ more.
+
 ### Open Source
+
 | Project | Contributions |
 |---|---|
 | **Supabase** | Website, UI Library |
