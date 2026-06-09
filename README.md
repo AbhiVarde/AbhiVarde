@@ -31,7 +31,7 @@ Open to frontend and product engineer roles → [abhivarde.in](https://abhivarde
 | [Svelte Drawer](https://skills.sh/abhivarde/svelte-drawer) | `npx skills add AbhiVarde/svelte-drawer` |
 | [Rekap](https://skills.sh/abhivarde/rekap) | `npx skills add AbhiVarde/rekap` |
 
-Works with Cursor, Claude Code, Copilot, Windsurf and 10+ more.
+Works with Cursor, Claude Code, Copilot, Windsurf, and 10+ AI coding tools.
 
 ### Open Source
 
