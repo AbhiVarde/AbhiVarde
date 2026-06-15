@@ -29,6 +29,7 @@ Open to frontend and product engineer roles → [abhivarde.in](https://abhivarde
 |---|---|
 | [Sync UI](https://skills.sh/abhivarde/syncui) | `npx skills add AbhiVarde/syncui` |
 | [Nothify](https://skills.sh/abhivarde/nothify-skill) | `npx skills add AbhiVarde/nothify-skill` |
+| [BaaS Party](https://skills.sh/abhivarde/baas-party) | `npx skills add AbhiVarde/baas-party` |
 | [Svelte Drawer](https://skills.sh/abhivarde/svelte-drawer) | `npx skills add AbhiVarde/svelte-drawer` |
 | [Rekap](https://skills.sh/abhivarde/rekap) | `npx skills add AbhiVarde/rekap` |
 
