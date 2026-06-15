@@ -10,6 +10,7 @@ Open to frontend and product engineer roles → [abhivarde.in](https://abhivarde
 
 | Project | Type | What it does |
 |---|---|---|
+| [BaaS Party](https://baas.abhivarde.in) | Dev Tool | Compare BaaS syntax side by side. Real code. Real tasks. The fastest way to choose your backend.|
 | [Snipply](https://snipply.abhivarde.in) | Dev Tool | A playground for React components with preview, fork, share and offline support |
 | [Rekap](https://github.com/AbhiVarde/rekap) | CLI | See exactly where you left off in any git repo |
 | [NodeFlow](https://nodeflow.abhivarde.in) | Workflow Builder | Visual node-based workflow builder for the browser |
