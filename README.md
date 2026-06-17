@@ -4,7 +4,7 @@ Building developer tools, AI products, and open source software.
 
 Open to frontend and product engineer roles → [abhivarde.in](https://abhivarde.in)
 
-[![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/varde_abhi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhi-varde) [![Vercel Community](https://img.shields.io/badge/Vercel%20Community-000000?style=flat-square&logo=vercel&logoColor=white)](https://vercel.com/community/abhivarde) [![skills.sh](https://img.shields.io/badge/skills.sh-000000?style=flat-square&logo=vercel&logoColor=white)](https://www.skills.sh/abhivarde) [![Sponsor](https://img.shields.io/badge/Sponsor-000000?style=flat-square&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/AbhiVarde)
+[![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/varde_abhi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhi-varde) [![Vercel Community](https://img.shields.io/badge/Vercel%20Community-000000?style=flat-square&logo=vercel&logoColor=white)](https://community.vercel.com/u/abhivarde/) [![skills.sh](https://img.shields.io/badge/skills.sh-000000?style=flat-square&logo=vercel&logoColor=white)](https://www.skills.sh/abhivarde) [![Sponsor](https://img.shields.io/badge/Sponsor-000000?style=flat-square&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/AbhiVarde)
 
 ### Projects
 
