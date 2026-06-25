@@ -1,4 +1,4 @@
-Building developer tools, AI products, and open source software.
+Building developer tools, AI products, and open source software.  
 12+ shipped products · 4,000+ npm downloads · 150+ GitHub stars.
 
 Available for frontend & product engineering roles → [abhivarde.in](https://abhivarde.in)
