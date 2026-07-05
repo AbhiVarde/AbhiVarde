@@ -10,9 +10,9 @@ open to remote engineering roles → [abhivarde.in](https://abhivarde.in)
 ### Featured
 | Project | Type | What it does |
 |---|---|---|
-| [Sync UI](https://syncui.design) | UI System| Components, blocks and templates built with MUI and Motion |
+| [Sync UI](https://syncui.design) | UI System | Components, blocks and templates built with MUI and Motion |
 | [Svelte Drawer](https://drawer.abhivarde.in) | NPM Package | Accessible drawer component for Svelte 5 |
-| [Nothify](https://nothify.abhivarde.in) | AI Agent | Autonomous 404, error, loading page generator for Next.js repos |
+| [Nothify](https://nothify.abhivarde.in) | AI Agent | Autonomous 404, error, and loading page generator for Next.js repos |
 | [BaaS Party](https://baas.abhivarde.in) | Dev Tool | Compare BaaS syntax side by side. Well received by the BaaS platform teams |
 | [Rekap](https://github.com/AbhiVarde/rekap) | CLI | See exactly where you left off in any git repo |
 
