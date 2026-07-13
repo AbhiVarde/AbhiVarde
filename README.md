@@ -10,7 +10,7 @@ open to remote engineering roles → [abhivarde.in](https://abhivarde.in)
 ### Featured
 | Project | Type | What it does |
 |---|---|---|
-| [callcheck](https://callcheck.abhivarde.in) | NPM Package | Validates AI tool call responses against a schema, auto repairs failures |
+| [Callcheck](https://callcheck.abhivarde.in) | NPM Package | Validates AI tool call responses against a schema, auto repairs failures |
 | [Sync UI](https://syncui.design) | UI System | Components, blocks and templates built with MUI and Motion |
 | [Svelte Drawer](https://drawer.abhivarde.in) | NPM Package | Accessible drawer component for Svelte 5 |
 | [Nothify](https://nothify.abhivarde.in) | AI Agent | Autonomous 404, error, and loading page generator for Next.js repos |
