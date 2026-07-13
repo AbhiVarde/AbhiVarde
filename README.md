@@ -1,5 +1,5 @@
 frontend & product engineer, building developer tools and open source software.  
-12+ shipped products · 4,000+ npm downloads · 150+ GitHub stars.
+13+ shipped products · 5,000+ npm downloads · 160+ GitHub stars.
 
 open to remote engineering roles → [abhivarde.in](https://abhivarde.in)
 
