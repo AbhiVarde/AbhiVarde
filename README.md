@@ -1,6 +1,6 @@
-frontend & product engineer, building developer tools and open source software.  
-13+ shipped products, 5,000+ npm downloads, 160+ github stars.  
-open to remote engineering roles → [abhivarde.in](https://abhivarde.in)  
+frontend & product engineer, building developer tools and open source software.
+13+ shipped products, 5,000+ npm downloads, 160+ github stars.
+open to remote engineering roles → [abhivarde.in](https://abhivarde.in)
 
 <a href="https://vercel.com/open-source-program"><img alt="Vercel OSS Program Member" src="https://shieldcn.dev/badge/Vercel_OSS_Program_Member.svg?variant=branded&size=xs&theme=zinc&logo=vercel" /></a>
 
@@ -30,17 +30,6 @@ Rekap            CLI              █░░░░░░░░░░░░░░�
 Snipply          Dev Tool         █░░░░░░░░░░░░░░░░░░░░░░░░   02.84 %
 ```
 [Rekap](https://github.com/AbhiVarde/rekap) · [Snipply](https://snipply.abhivarde.in) · [NodeFlow](https://nodeflow.abhivarde.in) · [Billow](https://billow.abhivarde.in) · [Jobs](https://jobs.abhivarde.in) · [Sendra](https://sendra.vercel.app) · [ErrExplain](https://errexplain.appwrite.network) · [Idea Tracker](https://idea-tracker-v2.appwrite.network)
-
-### agent skills
-↳ install with skills.sh, works with Cursor, Claude Code, Copilot, Windsurf, and 10+ AI coding tools
-
-| skill | install |
-|---|---|
-| [Sync UI](https://skills.sh/abhivarde/syncui) | `npx skills add AbhiVarde/syncui` |
-| [Nothify](https://skills.sh/abhivarde/nothify-skill) | `npx skills add AbhiVarde/nothify-skill` |
-| [BaaS Party](https://skills.sh/abhivarde/baas-party) | `npx skills add AbhiVarde/baas-party` |
-| [Svelte Drawer](https://skills.sh/abhivarde/svelte-drawer) | `npx skills add AbhiVarde/svelte-drawer` |
-| [Rekap](https://skills.sh/abhivarde/rekap) | `npx skills add AbhiVarde/rekap` |
 
 ### open source
 ↳ weighted by merged PR count per project, normalized to 100
