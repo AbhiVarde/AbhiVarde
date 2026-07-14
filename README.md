@@ -15,8 +15,6 @@ Nothify          AI Agent         █████░░░░░░░░░░�
 BaaS Party       Dev Tool         █░░░░░░░░░░░░░░░░░░░░░░░░   01.59 %
 Callcheck        NPM Package      █░░░░░░░░░░░░░░░░░░░░░░░░   00.53 %
 ```
-[Sync UI](https://syncui.design) · [Svelte Drawer](https://drawer.abhivarde.in) · [Nothify](https://nothify.abhivarde.in) · [BaaS Party](https://baas.abhivarde.in) · [Callcheck](https://callcheck.abhivarde.in)
-
 ### open source
 ↳ weighted by merged PR count per project, normalized to 100
 ```text
