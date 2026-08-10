@@ -1,5 +1,5 @@
 frontend & product engineer, building developer tools and open source software.  
-14+ shipped products, 5,000+ npm downloads, 160+ github stars.  
+14+ shipped products, 20K+ npm downloads, 170+ GitHub stars.  
 open to remote engineering roles → [abhivarde.in](https://abhivarde.in)  
 
 <a href="https://vercel.com/open-source-program"><img alt="Vercel OSS Program Member" src="https://shieldcn.dev/badge/Vercel_OSS_Program_Member.svg?variant=branded&size=xs&theme=zinc&logo=vercel" /></a>
