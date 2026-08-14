@@ -1,4 +1,4 @@
-frontend & product engineer, building developer tools and open source software.  
+full stack product engineer, building developer tools and open source software.  
 14+ shipped products, 20K+ npm downloads, 170+ GitHub stars.  
 open to remote engineering roles → [abhivarde.in](https://abhivarde.in)  
 
