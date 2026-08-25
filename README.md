@@ -1,5 +1,5 @@
 full stack product engineer, building developer tools and open source software.  
-14+ shipped products, 20K+ npm downloads, 170+ GitHub stars.  
+15+ shipped products, 20K+ npm downloads, 170+ GitHub stars.  
 open to remote engineering roles → [abhivarde.in](https://abhivarde.in)  
 
 <a href="https://vercel.com/open-source-program"><img alt="Vercel OSS Program Member" src="https://shieldcn.dev/badge/Vercel_OSS_Program_Member.svg?variant=branded&size=xs&theme=zinc&logo=vercel" /></a>
@@ -9,20 +9,20 @@ open to remote engineering roles → [abhivarde.in](https://abhivarde.in)
 ### featured
 ↳ composite score: 50% github stars (laplace-smoothed) + 50% infra depth (integrations used), normalized to 100
 ```text
-Sync UI          UI System        ██████████░░░░░░░░░░░░░░░   40.46 %
-TryEve           Agent Runtime    ██████░░░░░░░░░░░░░░░░░░░   22.58 %
-Svelte Drawer    NPM Package      ████░░░░░░░░░░░░░░░░░░░░░   17.42 %
-Nothify          AI Agent         ███░░░░░░░░░░░░░░░░░░░░░░   10.00 %
-Callcheck        Reliability Layer██░░░░░░░░░░░░░░░░░░░░░░░   09.54 %
+Sync UI          UI System        ███████████████████████░░   87 %
+TryEve           Agent Runtime    ███████████████████░░░░░░   73 %
+Svelte Drawer    NPM Package      █████████████████░░░░░░░░   64 %
+Nothify          AI Agent         ██████████░░░░░░░░░░░░░░░   38 %
+Callcheck        Reliability Layer██████░░░░░░░░░░░░░░░░░░░   22 %
 ```
 
 ### open source
 ↳ weighted by merged PR count per project, normalized to 100
 ```text
-Better Auth      better-hub               ████████████░░░░░░░░░░░░░   42.11 %
-Supabase         Website, UI Library      ███████░░░░░░░░░░░░░░░░░░   23.68 %
-Appwrite         Console, Website, Arena  ███████░░░░░░░░░░░░░░░░░░   23.68 %
-Mintlify         Docs                     █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 %
-Umami            Website, React Zen       █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 %
-Archestra AI     Website                  █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 %
+Better Auth      better-hub               ████████████░░░░░░░░░░░░░   44 %
+Supabase         Website, UI Library      ███████░░░░░░░░░░░░░░░░░░   26 %
+Appwrite         Console, Website, Arena  ██████░░░░░░░░░░░░░░░░░░░   24 %
+Mintlify         Docs                     ██░░░░░░░░░░░░░░░░░░░░░░░   09 %
+Umami            Website, React Zen       █░░░░░░░░░░░░░░░░░░░░░░░░   05 %
+Archestra AI     Website                  █░░░░░░░░░░░░░░░░░░░░░░░░   03 %
 ```
