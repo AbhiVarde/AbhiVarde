@@ -9,11 +9,11 @@ open to remote engineering roles → [abhivarde.in](https://abhivarde.in)
 ### featured
 ↳ composite score: 50% github stars (laplace-smoothed) + 50% infra depth (integrations used), normalized to 100
 ```text
-Sync UI          UI System        ███████████████████████░░   87 %
-TryEve           Agent Runtime    ███████████████████░░░░░░   73 %
-Svelte Drawer    NPM Package      █████████████████░░░░░░░░   64 %
-Nothify          AI Agent         ██████████░░░░░░░░░░░░░░░   38 %
-Callcheck        Reliability Layer██████░░░░░░░░░░░░░░░░░░░   22 %
+Sync UI          UI System         ███████████████████████░░   87 %
+TryEve           Agent Builder     ███████████████████░░░░░░   73 %
+Svelte Drawer    NPM Package       █████████████████░░░░░░░░   64 %
+Nothify          AI Agent          ██████████░░░░░░░░░░░░░░░   38 %
+Callcheck        Reliability Layer ██████░░░░░░░░░░░░░░░░░░░   22 %
 ```
 
 ### open source
