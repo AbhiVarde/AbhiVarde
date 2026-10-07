@@ -1,6 +1,6 @@
 full stack product engineer, building developer tools and open source software.  
 15+ shipped products, 20K+ npm downloads, 190+ GitHub stars.  
-open to remote engineering roles → [abhivarde.in](https://abhivarde.in)  
+available now for full time engineering roles → [abhivarde.in](https://abhivarde.in)
 
 <a href="https://vercel.com/open-source-program"><img alt="Vercel OSS Program Member" src="https://shieldcn.dev/badge/Vercel_OSS_Program_Member.svg?variant=branded&size=xs&theme=zinc&logo=vercel" /></a>
 
