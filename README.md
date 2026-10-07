@@ -12,7 +12,7 @@ open to remote engineering roles → [abhivarde.in](https://abhivarde.in)
 | project | type | score |
 | :-- | :-- | :-- |
 | [TryEve](https://tryeve.abhivarde.in) | Agent Builder | `███████████████████░░░░░░` 73% |
-| [Sync UI](https://syncui.design) | UI System | `███████████████████████░░` 87% |
+| [Sync UI](https://ui.abhivarde.in) | UI System | `███████████████████████░░` 87% |
 | [Nothify](https://nothify.abhivarde.in) | AI Agent | `██████████░░░░░░░░░░░░░░░` 38% |
 | [Svelte Drawer](https://drawer.abhivarde.in) | NPM Package | `█████████████████░░░░░░░░` 64% |
 | [Callcheck](https://callcheck.abhivarde.in) | Reliability Layer | `██████░░░░░░░░░░░░░░░░░░░` 22% |
