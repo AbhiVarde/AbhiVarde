@@ -15,7 +15,6 @@ available immediately · open to full time & freelance roles → [abhivarde.in](
 | [Sync UI](https://ui.abhivarde.in) | UI System | `███████████████████████░░` 87% |
 | [Nothify](https://nothify.abhivarde.in) | AI Agent | `██████████░░░░░░░░░░░░░░░` 38% |
 | [Svelte Drawer](https://drawer.abhivarde.in) | NPM Package | `█████████████████░░░░░░░░` 64% |
-| [Callcheck](https://callcheck.abhivarde.in) | Reliability Layer | `██████░░░░░░░░░░░░░░░░░░░` 22% |
 
 ### open source
 ↳ newest first, score is weighted by merged PR count per project, normalized to 100
